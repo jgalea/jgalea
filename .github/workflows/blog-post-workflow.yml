@@ -10,7 +10,7 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v2
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://jeangalea.com/feed/"
           max_post_count: 5
