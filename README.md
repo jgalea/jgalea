@@ -65,6 +65,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Headless WordPress: The Bridge](https://jeangalea.com/headless-wordpress-the-bridge/)
+- [The Lightweight Video Kit I Use for Drone and Talking-Head](https://jeangalea.com/lightweight-video-kit/)
+- [How to Grow on X in 2026: The Durable Rules vs the Algorithm Myths](https://jeangalea.com/grow-on-x-2026/)
+- [When to Use WordPress, Astro, Next, or Laravel](https://jeangalea.com/wordpress-astro-next-laravel/)
+- [How to Control and Automate an iPhone or iPad With WebDriverAgent](https://jeangalea.com/control-automate-iphone-webdriveragent/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
