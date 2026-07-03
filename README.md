@@ -27,6 +27,7 @@
 - 📬 **[mailbox-mcp](https://github.com/jgalea/mailbox-mcp)** - Gmail, IMAP, and JMAP for AI tools
 - ✈️ **[telegram-mcp](https://github.com/jgalea/telegram-mcp)** - Telegram access for AI tools
 - 📊 **[claude-statusline](https://github.com/jgalea/claude-statusline)** - zero-dependency status line for Claude Code
+- 🛒 **[grocery-cli](https://github.com/jgalea/grocery-cli)** - agent-friendly CLI for online supermarkets, one interface for Ametller, Continente, and more
 
 ### macOS & Terminal
 
