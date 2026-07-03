@@ -11,8 +11,6 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-> Scratch my own itch, ship it early, share it.
-
 ## Start Here
 
 - 🐦 **[pigeon](https://github.com/jgalea/pigeon)** - self-hosted WhatsApp gateway, REST API + MCP server
@@ -81,3 +79,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Jean_Galea-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeangalea/)
 [![Blog](https://img.shields.io/badge/-jeangalea.com-FF5722?style=flat-square&logo=wordpress&logoColor=white)](https://jeangalea.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jgalea)
+
+## Philosophy
+
+> Scratch my own itch, ship it early, share it.
