@@ -19,6 +19,7 @@
 - 📷 **[cam-cli](https://github.com/jgalea/cam-cli)** - Mac camera viewfinder and capture from the terminal
 - 🎬 **[flowshot](https://github.com/jgalea/flowshot)** - self-hosted interactive product demos, no vendor lock-in
 - 🌼 **[disk-bloom](https://github.com/jgalea/disk-bloom)** - free DaisyDisk alternative for macOS, sunburst disk visualizer
+- 🧊 **[fridgekit](https://github.com/jgalea/fridgekit)** - Swift package for 12V portable fridges over Bluetooth, verified against real hardware
 
 ## Current Projects
 
@@ -47,6 +48,10 @@
 - 🖼️ **[retrohead](https://github.com/jgalea/retrohead)** - retro README banner generator
 - 🔇 **[noiseout](https://github.com/jgalea/noiseout)** - strips LinkedIn distractions, Chrome extension
 
+### Hardware & Bluetooth
+
+- 🧊 **[fridgekit](https://github.com/jgalea/fridgekit)** - Swift package for Alpicool-protocol 12V fridges (Vevor, Brass Monkey and friends), plus the protocol notes nobody else wrote down
+
 ### WordPress
 
 - 🤖 **[geoboost](https://github.com/jgalea/geoboost)** - GEO plugin, makes a site citable by AI search
@@ -58,10 +63,6 @@
 
 - 🎮 **[games](https://github.com/jgalea/games)** - local-multiplayer browser games for the kids
 - 📓 **[dayone-backup](https://github.com/jgalea/dayone-backup)** - encrypted backup of Day One journals
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=jgalea&hide_border=true)
 
 ## What I'm Doing
 
