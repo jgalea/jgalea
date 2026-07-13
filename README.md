@@ -73,11 +73,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One Config, Five AI Coding Agents](https://jeangalea.com/ai-coding-agents-one-config/)
 - [How to Pay International Remote Workers from Europe](https://jeangalea.com/pay-international-remote-workers-europe/)
 - [When Headless WordPress Is Worth It &lpar;and Why Speed Isn’t the Reason&rpar;](https://jeangalea.com/headless-wordpress-worth-it/)
 - [How the Pieces Wire Up: A Modern Stack Integration Tour](https://jeangalea.com/how-the-pieces-wire-up/)
 - [Headless WordPress: The Bridge](https://jeangalea.com/headless-wordpress-the-bridge/)
-- [The Lightweight Video Kit I Use for Drone and Talking-Head](https://jeangalea.com/lightweight-video-kit/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
