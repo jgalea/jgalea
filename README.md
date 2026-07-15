@@ -47,6 +47,7 @@
 - 🎬 **[flowshot](https://github.com/jgalea/flowshot)** - self-hosted interactive product demos, no vendor lock-in
 - 🖼️ **[retrohead](https://github.com/jgalea/retrohead)** - retro README banner generator
 - 🔇 **[noiseout](https://github.com/jgalea/noiseout)** - strips LinkedIn distractions, Chrome extension
+- 🖋️ **[engrave-kit](https://github.com/jgalea/engrave-kit)** - charts drawn like copperplate engravings, React + canvas
 
 ### Hardware & Bluetooth
 
@@ -54,6 +55,8 @@
 
 ### WordPress
 
+- 🔧 **[wporg](https://github.com/jgalea/wporg)** - command-line client for WordPress.org: search the directory, track any plugin's stats and reviews, ship your own releases
+- 🗃️ **[batchpilot](https://github.com/jgalea/batchpilot)** - bulk operations for WordPress and WooCommerce, built for humans and AI agents
 - 🤖 **[geoboost](https://github.com/jgalea/geoboost)** - GEO plugin, makes a site citable by AI search
 - 🔌 **[shake-connect](https://github.com/jgalea/shake-connect)** - site-side connector for the WPShake maintenance dashboard
 - 🗓️ **[scheduled-content-dashboard](https://github.com/jgalea/scheduled-content-dashboard)** - visual dashboard for scheduled posts
