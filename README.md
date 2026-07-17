@@ -77,11 +77,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How WordPress.org Plugin Search Gets Gamed &lpar;and Why It Favors Big Players&rpar;](https://jeangalea.com/wordpress-plugin-search-gaming/)
+- [Treat LinkedIn Like a Landing Page: My Full System](https://jeangalea.com/linkedin-landing-page-system/)
 - [One Config, Five AI Coding Agents](https://jeangalea.com/ai-coding-agents-one-config/)
 - [How to Pay International Remote Workers from Europe](https://jeangalea.com/pay-international-remote-workers-europe/)
 - [When Headless WordPress Is Worth It &lpar;and Why Speed Isn’t the Reason&rpar;](https://jeangalea.com/headless-wordpress-worth-it/)
-- [How the Pieces Wire Up: A Modern Stack Integration Tour](https://jeangalea.com/how-the-pieces-wire-up/)
-- [Headless WordPress: The Bridge](https://jeangalea.com/headless-wordpress-the-bridge/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
