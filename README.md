@@ -77,11 +77,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don’t Idolize People You Only Know Online](https://jeangalea.com/dont-idolize-people-online/)
 - [Which AI Model Should You Use? It Depends Who’s Running It](https://jeangalea.com/which-ai-model-should-you-use/)
 - [Blockpit Review 2026 – Crypto Tax Reports With Prefilled European Forms](https://jeangalea.com/blockpit-review/)
 - [The most trusted WordPress plugin signal is also the most gameable](https://jeangalea.com/wordpress-plugin-install-counts/)
 - [Why AI Stalls for Most People &lpar;It Isn’t the Model&rpar;](https://jeangalea.com/why-ai-stalls/)
-- [How WordPress.org Plugin Search Gets Gamed &lpar;and Why It Favors Big Players&rpar;](https://jeangalea.com/wordpress-plugin-search-gaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
