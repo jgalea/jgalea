@@ -77,11 +77,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Capital Gains Are Taxed in Portugal &lpar;2026&rpar;](https://jeangalea.com/portugal-capital-gains-tax/)
 - [Afranga in 2026: The ECSP Relaunch, New Originators, and the Latest Numbers](https://jeangalea.com/afranga-2026-update/)
 - [Don’t Idolize People You Only Know Online](https://jeangalea.com/dont-idolize-people-online/)
 - [Which AI Model Should You Use? It Depends Who’s Running It](https://jeangalea.com/which-ai-model-should-you-use/)
 - [Blockpit Review 2026 – Crypto Tax Reports With Prefilled European Forms](https://jeangalea.com/blockpit-review/)
-- [The most trusted WordPress plugin signal is also the most gameable](https://jeangalea.com/wordpress-plugin-install-counts/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
