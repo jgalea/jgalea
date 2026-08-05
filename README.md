@@ -13,10 +13,11 @@
 
 ## Start Here
 
+- 🛒 **[grocery-cli](https://github.com/jgalea/grocery-cli)** - one CLI for online supermarkets, search, price a basket, read products
+- 📡 **[agent-reach](https://github.com/jgalea/agent-reach)** - give an agent the channels it needs and only those, per-channel install
 - 🐦 **[pigeon](https://github.com/jgalea/pigeon)** - self-hosted WhatsApp gateway, REST API + MCP server
 - 📬 **[mailbox-mcp](https://github.com/jgalea/mailbox-mcp)** - Gmail, IMAP, and JMAP for AI tools
-- ✈️ **[telegram-mcp](https://github.com/jgalea/telegram-mcp)** - Telegram access for AI tools
-- 📷 **[cam-cli](https://github.com/jgalea/cam-cli)** - Mac camera viewfinder and capture from the terminal
+- 🎙️ **[meetrec](https://github.com/jgalea/meetrec)** - record meetings on macOS, transcribe locally with whisper.cpp, keep the audio
 - 🎬 **[flowshot](https://github.com/jgalea/flowshot)** - self-hosted interactive product demos, no vendor lock-in
 - 🌼 **[disk-bloom](https://github.com/jgalea/disk-bloom)** - free DaisyDisk alternative for macOS, sunburst disk visualizer
 - 🧊 **[fridgekit](https://github.com/jgalea/fridgekit)** - Swift package for 12V portable fridges over Bluetooth, verified against real hardware
@@ -28,6 +29,7 @@
 - 🐦 **[pigeon](https://github.com/jgalea/pigeon)** - self-hosted WhatsApp gateway: REST API + MCP server
 - 📬 **[mailbox-mcp](https://github.com/jgalea/mailbox-mcp)** - Gmail, IMAP, and JMAP for AI tools
 - ✈️ **[telegram-mcp](https://github.com/jgalea/telegram-mcp)** - Telegram access for AI tools
+- 📡 **[agent-reach](https://github.com/jgalea/agent-reach)** - per-channel capability router for agents: one output shape, local and unmetered
 - 📊 **[claude-statusline](https://github.com/jgalea/claude-statusline)** - zero-dependency status line for Claude Code
 - 🛒 **[grocery-cli](https://github.com/jgalea/grocery-cli)** - agent-friendly CLI for online supermarkets, one interface for Ametller, Continente, and more
 - 🛵 **[glovo-cli](https://github.com/jgalea/glovo-cli)** - agent-friendly CLI for Glovo food delivery: restaurants, menus, baskets
@@ -36,11 +38,21 @@
 
 ### macOS & Terminal
 
+- 🎙️ **[meetrec](https://github.com/jgalea/meetrec)** - meeting recorder and local whisper.cpp transcriber, the audio is never thrown away
 - 🌼 **[disk-bloom](https://github.com/jgalea/disk-bloom)** - free DaisyDisk alternative: sunburst chart, animated zoom, root scans
 - 📷 **[cam-cli](https://github.com/jgalea/cam-cli)** - Mac camera viewfinder and capture from the terminal
 - 🦅 **[session-hawk](https://github.com/jgalea/session-hawk)** - local-first macOS notch companion for Claude Code
 - 🩺 **[backrest-menubar](https://github.com/jgalea/backrest-menubar)** - menu bar health monitor for Backrest backups
 - 🍺 **[homebrew-tools](https://github.com/jgalea/homebrew-tools)** - Homebrew tap for the CLI tools above
+
+### Open data & consumer CLIs
+
+- 🛍️ **[souk](https://github.com/jgalea/souk)** - audit Amazon listings for fake and AI-written reviews, compare prices across marketplaces
+- 🚗 **[itv-cli](https://github.com/jgalea/itv-cli)** - works out when a Spanish vehicle's next ITV is due from the plate alone, offline, no keys
+- 📑 **[ted-cli](https://github.com/jgalea/ted-cli)** - EU public tenders through the TED search API, no API key
+- 🇲🇹 **[mt-nso](https://github.com/jgalea/mt-nso)** - Malta NSO statistics over the IRIS SDMX API
+- 🏗️ **[mt-permess](https://github.com/jgalea/mt-permess)** - Malta Planning Authority permits via permess.mt
+- 🗂️ **[mt-europa](https://github.com/jgalea/mt-europa)** - Malta open data through data.europa.eu
 
 ### Web & Dashboards
 
@@ -55,7 +67,10 @@
 
 ### WordPress
 
-- 🔧 **[wporg](https://github.com/jgalea/wporg)** - command-line client for WordPress.org: search the directory, track any plugin's stats and reviews, ship your own releases
+- 🔐 **[sigil-2fa](https://github.com/jgalea/sigil-2fa)** - two-factor auth for WordPress: passkeys, authenticator apps, backup codes, per-role enforcement
+- 🔗 **[conduit-crm](https://github.com/jgalea/conduit-crm)** - connect WordPress to your CRM, sync users, purchases and form entries, gate content by tag. 10 CRMs
+- 📊 **[conversion-relay](https://github.com/jgalea/conversion-relay)** - no-code bridge from plugin events to analytics and ad platforms, no tag manager
+- ⭐ **[verdix-reviews](https://github.com/jgalea/verdix-reviews)** - review boxes with JSON-LD: star ratings, pros and cons, schema Google understands
 - 🗃️ **[batchpilot](https://github.com/jgalea/batchpilot)** - bulk operations for WordPress and WooCommerce, built for humans and AI agents
 - 🤖 **[geoboost](https://github.com/jgalea/geoboost)** - GEO plugin, makes a site citable by AI search
 - 🔌 **[shake-connect](https://github.com/jgalea/shake-connect)** - site-side connector for the WPShake maintenance dashboard
@@ -66,6 +81,8 @@
 
 - 🎮 **[games](https://github.com/jgalea/games)** - local-multiplayer browser games for the kids
 - 📓 **[dayone-backup](https://github.com/jgalea/dayone-backup)** - encrypted backup of Day One journals
+- 🎒 **[seesaw-archive](https://github.com/jgalea/seesaw-archive)** - download your children's Seesaw journals with real filenames, organized per child
+- 🧩 **[seesaw-downloader](https://github.com/jgalea/seesaw-downloader)** - the same fix as a Chrome extension, for people who'd rather not use a terminal
 
 ## What I'm Doing
 
