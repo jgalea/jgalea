@@ -94,11 +94,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Founders Sell for Millions and Bank Nothing](https://jeangalea.com/founders-sell-millions-bank-nothing/)
 - [Internet and Mobile in Portugal: Why I Use UZO](https://jeangalea.com/internet-mobile-portugal-uzo/)
 - [Setting Up Utilities in Portugal: A Practical Guide for New Arrivals](https://jeangalea.com/portugal-utilities/)
 - [Campervan Rental in Cascais: Where You Can Actually Sleep](https://jeangalea.com/campervan-rental-cascais/)
 - [How Capital Gains Are Taxed in Portugal &lpar;2026&rpar;](https://jeangalea.com/portugal-capital-gains-tax/)
-- [Afranga in 2026: The ECSP Relaunch, New Originators, and the Latest Numbers](https://jeangalea.com/afranga-2026-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
