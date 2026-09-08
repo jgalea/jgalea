@@ -94,11 +94,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Business Moats: What Actually Keeps Competitors Out](https://jeangalea.com/business-moats/)
+- [The Sunscreen Rules Worth Following &lpar;and the Ones to Ignore&rpar;](https://jeangalea.com/sunscreen-rules/)
+- [Keeping a Spanish Phone Number While Living Abroad](https://jeangalea.com/keep-spanish-phone-number-abroad/)
 - [Lisbon From Cascais: When to Take the Train, When to Drive, and What It All Costs](https://jeangalea.com/lisbon-day-trips-cascais/)
 - [Why Founders Sell for Millions and Bank Nothing](https://jeangalea.com/founders-sell-millions-bank-nothing/)
-- [Internet and Mobile in Portugal: Why I Use UZO](https://jeangalea.com/internet-mobile-portugal-uzo/)
-- [Setting Up Utilities in Portugal: A Practical Guide for New Arrivals](https://jeangalea.com/portugal-utilities/)
-- [Campervan Rental in Cascais: Where You Can Actually Sleep](https://jeangalea.com/campervan-rental-cascais/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
