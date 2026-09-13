@@ -94,11 +94,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving Country With N26: What Changes, What Stays, and the Italy Exception](https://jeangalea.com/n26-change-country/)
 - [The Midlife Squeeze: Peak Earnings, Peak Family Demands](https://jeangalea.com/midlife-squeeze/)
 - [Business Moats: What Actually Keeps Competitors Out](https://jeangalea.com/business-moats/)
 - [The Sunscreen Rules Worth Following &lpar;and the Ones to Ignore&rpar;](https://jeangalea.com/sunscreen-rules/)
 - [Keeping a Spanish Phone Number While Living Abroad](https://jeangalea.com/keep-spanish-phone-number-abroad/)
-- [Lisbon From Cascais: When to Take the Train, When to Drive, and What It All Costs](https://jeangalea.com/lisbon-day-trips-cascais/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
