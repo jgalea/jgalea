@@ -94,11 +94,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Koko vs Burst vs Independent Analytics, and the One I Built](https://jeangalea.com/koko-vs-burst-vs-independent-analytics/)
 - [How to Register With Portugal’s SNS, and What It Actually Covers](https://jeangalea.com/portugal-sns-registration/)
 - [Private Health Insurance in Portugal: The Gaps That Matter Most](https://jeangalea.com/portugal-health-insurance-gaps/)
 - [Google Analytics Alternatives for WordPress](https://jeangalea.com/google-analytics-alternatives-wordpress/)
 - [Moving Country With N26: What Changes, What Stays, and the Italy Exception](https://jeangalea.com/n26-change-country/)
-- [The Midlife Squeeze: Peak Earnings, Peak Family Demands](https://jeangalea.com/midlife-squeeze/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
