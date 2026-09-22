@@ -13,12 +13,12 @@
 
 ## Start Here
 
+- 🛍️ **[souk](https://github.com/jgalea/souk)** - tell whether an Amazon listing's reviews are fake or AI-written before you buy
 - 🛒 **[grocery-cli](https://github.com/jgalea/grocery-cli)** - one CLI for online supermarkets, search, price a basket, read products
+- 🍔 **[ubereats-cli](https://github.com/jgalea/ubereats-cli)** - find what delivers to your address and read whole menus from the terminal
 - 📡 **[agent-reach](https://github.com/jgalea/agent-reach)** - give an agent the channels it needs and only those, per-channel install
 - 🐦 **[pigeon](https://github.com/jgalea/pigeon)** - self-hosted WhatsApp gateway, REST API + MCP server
-- 📬 **[mailbox-mcp](https://github.com/jgalea/mailbox-mcp)** - Gmail, IMAP, and JMAP for AI tools
 - 🎙️ **[meetrec](https://github.com/jgalea/meetrec)** - record meetings on macOS, transcribe locally with whisper.cpp, keep the audio
-- 🎬 **[flowshot](https://github.com/jgalea/flowshot)** - self-hosted interactive product demos, no vendor lock-in
 - 🌼 **[disk-bloom](https://github.com/jgalea/disk-bloom)** - free DaisyDisk alternative for macOS, sunburst disk visualizer
 - 🧊 **[fridgekit](https://github.com/jgalea/fridgekit)** - Swift package for 12V portable fridges over Bluetooth, verified against real hardware
 
@@ -43,11 +43,18 @@
 - 📷 **[cam-cli](https://github.com/jgalea/cam-cli)** - Mac camera viewfinder and capture from the terminal
 - 🦅 **[session-hawk](https://github.com/jgalea/session-hawk)** - local-first macOS notch companion for Claude Code
 - 🩺 **[backrest-menubar](https://github.com/jgalea/backrest-menubar)** - menu bar health monitor for Backrest backups
+- 📄 **[document-scanner](https://github.com/jgalea/document-scanner)** - phone photos of paper into a clean, straightened PDF, offline
 - 🍺 **[homebrew-tools](https://github.com/jgalea/homebrew-tools)** - Homebrew tap for the CLI tools above
 
 ### Open data & consumer CLIs
 
 - 🛍️ **[souk](https://github.com/jgalea/souk)** - audit Amazon listings for fake and AI-written reviews, compare prices across marketplaces
+- 🍔 **[ubereats-cli](https://github.com/jgalea/ubereats-cli)** - set a delivery address, search what delivers to you, read whole menus
+- 🏷️ **[ebay-cli](https://github.com/jgalea/ebay-cli)** - search any eBay marketplace and get told when something new is listed
+- 🔨 **[catawiki-cli](https://github.com/jgalea/catawiki-cli)** - track auction lots and price them against what comparable lots really sold for
+- 📦 **[ali-cli](https://github.com/jgalea/ali-cli)** - your own AliExpress order history as text, JSON or TOON
+- 🧸 **[pwk](https://github.com/jgalea/pwk)** - kid-friendly places and events across Portugal, sorted by distance
+- 🎓 **[classlist-cli](https://github.com/jgalea/classlist-cli)** - read and post to your school's Classlist parent account from the terminal
 - 🚗 **[itv-cli](https://github.com/jgalea/itv-cli)** - works out when a Spanish vehicle's next ITV is due from the plate alone, offline, no keys
 - 📑 **[ted-cli](https://github.com/jgalea/ted-cli)** - EU public tenders through the TED search API, no API key
 - 🇲🇹 **[mt-nso](https://github.com/jgalea/mt-nso)** - Malta NSO statistics over the IRIS SDMX API
@@ -68,7 +75,7 @@
 ### WordPress
 
 - 🔐 **[sigil-2fa](https://github.com/jgalea/sigil-2fa)** - two-factor auth for WordPress: passkeys, authenticator apps, backup codes, per-role enforcement
-- 🔗 **[conduit-crm](https://github.com/jgalea/conduit-crm)** - connect WordPress to your CRM, sync users, purchases and form entries, gate content by tag. 10 CRMs
+- 🔗 **[switchyard-crm](https://github.com/jgalea/switchyard-crm)** - connect WordPress to your CRM, sync users, purchases and form entries, gate content by tag. 10 CRMs
 - 📊 **[conversion-relay](https://github.com/jgalea/conversion-relay)** - no-code bridge from plugin events to analytics and ad platforms, no tag manager
 - ⭐ **[verdix-reviews](https://github.com/jgalea/verdix-reviews)** - review boxes with JSON-LD: star ratings, pros and cons, schema Google understands
 - 🗃️ **[batchpilot](https://github.com/jgalea/batchpilot)** - bulk operations for WordPress and WooCommerce, built for humans and AI agents
