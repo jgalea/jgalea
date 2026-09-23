@@ -101,11 +101,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Much Database Self-Hosted WordPress Analytics Actually Uses](https://jeangalea.com/wordpress-analytics-database-size/)
+- [WordPress Analytics Without a Cookie Banner: What You Can Actually Skip](https://jeangalea.com/wordpress-analytics-cookie-banner/)
+- [Your WordPress Analytics Is Counting AI Crawlers as Readers](https://jeangalea.com/wordpress-analytics-ai-crawlers/)
 - [How to Move Your Google Analytics History Into WordPress Before You Delete It](https://jeangalea.com/import-google-analytics-to-wordpress/)
 - [Koko vs Burst vs Independent Analytics, and the One I Built](https://jeangalea.com/koko-vs-burst-vs-independent-analytics/)
-- [How to Register With Portugal’s SNS, and What It Actually Covers](https://jeangalea.com/portugal-sns-registration/)
-- [Private Health Insurance in Portugal: The Gaps That Matter Most](https://jeangalea.com/portugal-health-insurance-gaps/)
-- [Google Analytics Alternatives for WordPress](https://jeangalea.com/google-analytics-alternatives-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
