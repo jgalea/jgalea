@@ -101,11 +101,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Portugal Mortgage for Business Owners: The Income Banks Want to See](https://jeangalea.com/portugal-mortgage-business-owners/)
 - [Home Alarm Systems in Portugal: Skip Verisure and Own Your Setup](https://jeangalea.com/home-alarm-portugal/)
 - [How Much Database Self-Hosted WordPress Analytics Actually Uses](https://jeangalea.com/wordpress-analytics-database-size/)
 - [WordPress Analytics Without a Cookie Banner: What You Can Actually Skip](https://jeangalea.com/wordpress-analytics-cookie-banner/)
 - [Your WordPress Analytics Is Counting AI Crawlers as Readers](https://jeangalea.com/wordpress-analytics-ai-crawlers/)
-- [How to Move Your Google Analytics History Into WordPress Before You Delete It](https://jeangalea.com/import-google-analytics-to-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
