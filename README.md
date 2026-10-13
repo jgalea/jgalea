@@ -102,11 +102,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving to Portugal as an EU Citizen: Every Step, in the Order That Works](https://jeangalea.com/move-to-portugal-eu-citizen/)
 - [Your NHR Is Ending: What It Costs to Stay in Portugal and Where People Go Instead](https://jeangalea.com/life-after-nhr/)
 - [Portugal Mortgage for Business Owners: The Income Banks Want to See](https://jeangalea.com/portugal-mortgage-business-owners/)
 - [Home Alarm Systems in Portugal: Skip Verisure and Own Your Setup](https://jeangalea.com/home-alarm-portugal/)
 - [How Much Database Self-Hosted WordPress Analytics Actually Uses](https://jeangalea.com/wordpress-analytics-database-size/)
-- [WordPress Analytics Without a Cookie Banner: What You Can Actually Skip](https://jeangalea.com/wordpress-analytics-cookie-banner/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
