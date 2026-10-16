@@ -102,11 +102,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Revest Review 2026: A New P2P Platform Paying Up to 16%](https://jeangalea.com/revest-review/)
+- [Best Keyboards for Mac in 2026: Quiet, Comfortable and Built to Last](https://jeangalea.com/best-keyboards-mac/)
+- [How to Set Up the 8BitDo Retro 108 Keyboard on a Mac &lpar;and Live Without Touch ID&rpar;](https://jeangalea.com/8bitdo-retro-108-mac/)
 - [Where to Buy Specialty Coffee Beans in Cascais](https://jeangalea.com/specialty-coffee-beans-cascais/)
 - [Moving to Portugal as an EU Citizen: Every Step, in the Order That Works](https://jeangalea.com/move-to-portugal-eu-citizen/)
-- [Your NHR Is Ending: What It Costs to Stay in Portugal and Where People Go Instead](https://jeangalea.com/life-after-nhr/)
-- [Portugal Mortgage for Business Owners: The Income Banks Want to See](https://jeangalea.com/portugal-mortgage-business-owners/)
-- [Home Alarm Systems in Portugal: Skip Verisure and Own Your Setup](https://jeangalea.com/home-alarm-portugal/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
