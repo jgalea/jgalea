@@ -102,11 +102,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Importing a Car Into Portugal: What ISV Costs and When It Pays](https://jeangalea.com/importing-car-portugal/)
+- [The Best Healthy Food Delivery in Cascais](https://jeangalea.com/healthy-food-delivery-cascais/)
 - [Your Best Employees Could Be Running Your Next Company](https://jeangalea.com/intrapreneurship-ai/)
 - [Revest Review 2026: A New P2P Platform Paying Up to 16%](https://jeangalea.com/revest-review/)
 - [Best Keyboards for Mac in 2026: Quiet, Comfortable and Built to Last](https://jeangalea.com/best-keyboards-mac/)
-- [How to Set Up the 8BitDo Retro 108 Keyboard on a Mac &lpar;and Live Without Touch ID&rpar;](https://jeangalea.com/8bitdo-retro-108-mac/)
-- [Where to Buy Specialty Coffee Beans in Cascais](https://jeangalea.com/specialty-coffee-beans-cascais/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
