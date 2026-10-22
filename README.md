@@ -102,11 +102,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Workers vs Hetzner vs DigitalOcean: How I Decide Where an App Runs](https://jeangalea.com/cloudflare-workers-vs-hetzner-vs-digitalocean/)
 - [Why Shops in Portugal Ask for Your NIF &lpar;and What You Get Back&rpar;](https://jeangalea.com/nif-receipts-portugal/)
 - [Importing a Car Into Portugal: What ISV Costs and When It Pays](https://jeangalea.com/importing-car-portugal/)
 - [The Best Healthy Food Delivery in Cascais](https://jeangalea.com/healthy-food-delivery-cascais/)
 - [Your Best Employees Could Be Running Your Next Company](https://jeangalea.com/intrapreneurship-ai/)
-- [Revest Review 2026: A New P2P Platform Paying Up to 16%](https://jeangalea.com/revest-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
