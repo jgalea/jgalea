@@ -102,11 +102,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uruguay Residency Is Zero Tax for One Kind of Person](https://jeangalea.com/uruguay-residency-tax/)
+- [Best Anonymous Bitcoin Sportsbooks 2026: Betting Sites Without ID](https://jeangalea.com/anonymous-bitcoin-betting-sites/)
 - [Why You Should Invest in Bitcoin in 2027](https://jeangalea.com/why-invest-bitcoin-2027/)
 - [Cloudflare Workers vs Hetzner vs DigitalOcean: How I Decide Where an App Runs](https://jeangalea.com/cloudflare-workers-vs-hetzner-vs-digitalocean/)
 - [Why Shops in Portugal Ask for Your NIF &lpar;and What You Get Back&rpar;](https://jeangalea.com/nif-receipts-portugal/)
-- [Importing a Car Into Portugal: What ISV Costs and When It Pays](https://jeangalea.com/importing-car-portugal/)
-- [The Best Healthy Food Delivery in Cascais](https://jeangalea.com/healthy-food-delivery-cascais/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
