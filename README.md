@@ -102,11 +102,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are Memory Foam Pillows Toxic? What the Evidence Shows for Every Material](https://jeangalea.com/memory-foam-pillows-toxic/)
+- [AI Agents Mean Anyone With Taste Can Build Software](https://jeangalea.com/ai-agents-anyone-can-build/)
+- [Health Insurance for a Family of Five in Portugal: Real Quotes From €3,200 to €39,600 a Year](https://jeangalea.com/portugal-family-health-insurance-cost/)
 - [Half of Shopify App Store Reviews Arrive Within 17 Days](https://jeangalea.com/shopify-app-store-reviews/)
 - [Panama Residency and Tax: No Tax on Foreign Income, but Residency Starts at USD 200k](https://jeangalea.com/panama-residency-tax/)
-- [Uruguay Residency and Tax: Who the New Holiday Is For](https://jeangalea.com/uruguay-residency-tax/)
-- [Best Anonymous Bitcoin Sportsbooks 2026: Betting Sites Without ID](https://jeangalea.com/anonymous-bitcoin-betting-sites/)
-- [Why You Should Invest in Bitcoin in 2027](https://jeangalea.com/why-invest-bitcoin-2027/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
