@@ -102,11 +102,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Holding Investments in a Maltese Company: Tax on Dividends, Gains and Payouts](https://jeangalea.com/malta-company-investments-tax/)
+- [How to Stop an AI Agent From Approving Its Own Email](https://jeangalea.com/ai-agent-email-approval/)
+- [Meal Prep in Barcelona: How I Hit My Protein Target Without the Sunday Marathon](https://jeangalea.com/meal-prep-barcelona/)
 - [Are Memory Foam Pillows Toxic? What the Evidence Shows for Every Material](https://jeangalea.com/memory-foam-pillows-toxic/)
 - [AI Agents Mean Anyone With Taste Can Build Software](https://jeangalea.com/ai-agents-anyone-can-build/)
-- [Health Insurance for a Family of Five in Portugal: Real Quotes From €3,200 to €39,600 a Year](https://jeangalea.com/portugal-family-health-insurance-cost/)
-- [Half of Shopify App Store Reviews Arrive Within 17 Days](https://jeangalea.com/shopify-app-store-reviews/)
-- [Panama Residency and Tax: No Tax on Foreign Income, but Residency Starts at USD 200k](https://jeangalea.com/panama-residency-tax/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
