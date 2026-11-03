@@ -102,11 +102,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Secure a VPS Server: A Plain-English Guide](https://jeangalea.com/secure-vps-server/)
+- [How Much Protein per Meal When You’re Cutting](https://jeangalea.com/protein-per-meal-cutting/)
 - [Are UK Stocks Cheap in 2026? Valuation, Returns and Risks](https://jeangalea.com/uk-stocks-2026/)
 - [Self-Hosting Apps on a Small VPS: A Plain-English Setup Guide](https://jeangalea.com/self-host-apps-small-vps/)
 - [How to Back Up a Self-Hosted App So an AI Agent Can’t Delete the Backups](https://jeangalea.com/self-hosted-app-backups/)
-- [Holding Investments in a Maltese Company: Tax on Dividends, Gains and Payouts](https://jeangalea.com/malta-company-investments-tax/)
-- [How to Stop an AI Agent From Approving Its Own Email](https://jeangalea.com/ai-agent-email-approval/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
