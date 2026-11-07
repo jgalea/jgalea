@@ -102,11 +102,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comida sana a domicilio en Barcelona: cómo montar la semana](https://jeangalea.com/comida-sana-domicilio-barcelona/)
 - [WooCommerce vs Shopify in 2026: Why I Pick Shopify for a New Store](https://jeangalea.com/woocommerce-vs-shopify/)
 - [Healthy Family Dinners in Barcelona on a School-Week Schedule](https://jeangalea.com/healthy-family-dinners-barcelona/)
 - [How to Secure a VPS Server: A Plain-English Guide](https://jeangalea.com/secure-vps-server/)
 - [How Much Protein per Meal When You’re Cutting](https://jeangalea.com/protein-per-meal-cutting/)
-- [Are UK Stocks Cheap in 2026? Valuation, Returns and Risks](https://jeangalea.com/uk-stocks-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
