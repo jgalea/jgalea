@@ -102,11 +102,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When Building Gets Cheap, Spotting Is the Skill That’s Left](https://jeangalea.com/spotting-business-opportunities/)
 - [Is Portugal’s Housing Market a Bubble? What the 2026 Data Shows](https://jeangalea.com/portugal-housing-bubble-2026/)
 - [Home Electrical Wiring in Europe: Books, Local Rules and a YouTube Playlist](https://jeangalea.com/home-electrical-wiring-europe/)
 - [Europe and America Are Learning to Hate the People Who Build Things](https://jeangalea.com/anti-builder-culture/)
 - [Comida sana a domicilio en Barcelona: cómo montar la semana](https://jeangalea.com/comida-sana-domicilio-barcelona/)
-- [WooCommerce vs Shopify in 2026: Why I Pick Shopify for a New Store](https://jeangalea.com/woocommerce-vs-shopify/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
